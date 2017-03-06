@@ -3,3 +3,8 @@ class Simple{
      System.out.println("Hello Java");  
     }  
 }  
+
+public void test()
+{
+
+}
